@@ -1,0 +1,39 @@
+{
+  "name": "next-pow-2",
+  "version": "1.0.0",
+  "description": "Rounds an integer up to a power of 2",
+  "main": "np2.js",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "tape": "^4.0.0"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikolalysenko/next-pow-2.git"
+  },
+  "keywords": [
+    "next",
+    "power",
+    "of",
+    "2",
+    "bit",
+    "twiddle",
+    "hack",
+    "rounding",
+    "up"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikolalysenko/next-pow-2/issues"
+  },
+  "homepage": "https://github.com/mikolalysenko/next-pow-2"
+}
